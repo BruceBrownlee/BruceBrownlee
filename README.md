@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BruceBrownlee
-- 👀 I’m interested in science, data science, operations research, mathematical models, fractals, algorithmic trading, recording music, geneology
+- 👀 I’m interested in science, data science, operations research, mathematical models, fractals, supply chain optimization, business intelligence, algorithmic trading, Python, recording music, geneology
 - 🌱 I’m currently learning simulation modeling in Python 
-- 💞️ I’m looking to collaborate on algorithmic trading
+- 💞️ I’m looking to collaborate on projects in algorithmic trading, supply chain optimization, operations research, data science
 - 📫 How to reach me: bruce@brucebrownlee.com
 
 <!---
